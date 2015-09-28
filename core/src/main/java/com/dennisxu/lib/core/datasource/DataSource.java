@@ -20,7 +20,7 @@ public class DataSource {
     public <T> Response<T> handleNetRequest(Request request) {
         Response<T> response = new Response<T>();
         try {
-             response = CommonNetEngine.getInstance(mConfiguration).doRequest(request);
+            response = CommonNetEngine.getInstance(mConfiguration).doRequest(request);
         } catch (ParseException e) {
             response.setError(e);
             e.printStackTrace();

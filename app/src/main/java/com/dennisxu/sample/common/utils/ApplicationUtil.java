@@ -7,7 +7,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 
-import com.dennisxu.sample.MainActivity;
+import com.dennisxu.sample.home.MainActivity;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;

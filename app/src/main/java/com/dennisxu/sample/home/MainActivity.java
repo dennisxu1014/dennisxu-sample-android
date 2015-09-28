@@ -1,4 +1,4 @@
-package com.dennisxu.sample;
+package com.dennisxu.sample.home;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.dennisxu.lib.core.util.LogUtil;
+import com.dennisxu.sample.R;
 
 public class MainActivity extends AppCompatActivity {
 
