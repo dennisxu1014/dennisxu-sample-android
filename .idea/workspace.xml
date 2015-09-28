@@ -22,17 +22,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="dennisxu" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="754c4514-81ec-4b13-83ae-d7e17412dd58" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/dennisxu/sample/common/ui/AbstractBaseActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/dennisxu/sample/common/ui/AbstractBaseFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/dennisxu/sample/DennisApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/dennisxu/sample/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dennisxu/sample/home/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dennisxu/sample/common/utils/ApplicationUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dennisxu/sample/common/utils/ApplicationUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/dennisxu/lib/core/config/Configuration.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/dennisxu/lib/core/config/Configuration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/dennisxu/lib/core/datasource/DataSource.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/dennisxu/lib/core/datasource/DataSource.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="754c4514-81ec-4b13-83ae-d7e17412dd58" name="Default" comment="" />
     <ignored path="dennisxu-sample-android.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -2889,7 +2879,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
