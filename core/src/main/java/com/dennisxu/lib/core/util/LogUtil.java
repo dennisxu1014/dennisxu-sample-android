@@ -12,8 +12,8 @@ public final class LogUtil {
     /**
      * Priority constant for the println method Value 0 : disable all log , Value 7 : enable the log in every priority
      */
-//    private static final int LOG_LEVEL = BuildConfig.DEBUG == true ? 7 : 0;
-    private static final int LOG_LEVEL = 7;
+    private static final int LOG_LEVEL = BuildConfig.DEBUG == true ? 7 : 0;
+//    private static final int LOG_LEVEL = 7;
     /**
      * Priority constant for the println method; use Log.v.
      */

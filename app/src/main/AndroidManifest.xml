@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.dennisxu.sample" >
+
+    <!-- 第三方库最低支持版本高于我的项目的最低支持版本 -->
+    <!--<uses-sdk tools:overrideLibrary="com.dennisxu.lib.core"/>-->
 
     <application
         android:allowBackup="true"
